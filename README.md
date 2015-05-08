@@ -20,7 +20,7 @@ var kicadComponents = fs.readFileSync(
     'node_modules/kicad-bom-generator/test/uhk-left-main.cmp',
     {encoding:'utf8'});
 var kicadNetlist = fs.readFileSync(
-    'node_modules/kicad-bom-generator/test/uhk-left-main.cmp',
+    'node_modules/kicad-bom-generator/test/uhk-left-main.net',
     {encoding:'utf8'});
 console.log(JSON.stringify(kicadBomGenerator(kicadComponents, kicadNetlist), null, 4));
 ```
