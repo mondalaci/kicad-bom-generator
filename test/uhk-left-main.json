@@ -1,0 +1,2358 @@
+[
+    {
+        "ref": "D13",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B526",
+        "component": {
+            "timestamp": "/5011B526",
+            "reference": "D13",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D14",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B539",
+        "component": {
+            "timestamp": "/5011B539",
+            "reference": "D14",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D15",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B53F",
+        "component": {
+            "timestamp": "/5011B53F",
+            "reference": "D15",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D16",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B545",
+        "component": {
+            "timestamp": "/5011B545",
+            "reference": "D16",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D17",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B54B",
+        "component": {
+            "timestamp": "/5011B54B",
+            "reference": "D17",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D21",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B80B",
+        "component": {
+            "timestamp": "/5011B80B",
+            "reference": "D21",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D22",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B812",
+        "component": {
+            "timestamp": "/5011B812",
+            "reference": "D22",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D23",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B81A",
+        "component": {
+            "timestamp": "/5011B81A",
+            "reference": "D23",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D24",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B820",
+        "component": {
+            "timestamp": "/5011B820",
+            "reference": "D24",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D25",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B826",
+        "component": {
+            "timestamp": "/5011B826",
+            "reference": "D25",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D27",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B82C",
+        "component": {
+            "timestamp": "/5011B82C",
+            "reference": "D27",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D31",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B84B",
+        "component": {
+            "timestamp": "/5011B84B",
+            "reference": "D31",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D32",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B852",
+        "component": {
+            "timestamp": "/5011B852",
+            "reference": "D32",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D33",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B85A",
+        "component": {
+            "timestamp": "/5011B85A",
+            "reference": "D33",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D34",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B860",
+        "component": {
+            "timestamp": "/5011B860",
+            "reference": "D34",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D35",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B866",
+        "component": {
+            "timestamp": "/5011B866",
+            "reference": "D35",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D37",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B86C",
+        "component": {
+            "timestamp": "/5011B86C",
+            "reference": "D37",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D41",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B88B",
+        "component": {
+            "timestamp": "/5011B88B",
+            "reference": "D41",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D42",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B892",
+        "component": {
+            "timestamp": "/5011B892",
+            "reference": "D42",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D43",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B89A",
+        "component": {
+            "timestamp": "/5011B89A",
+            "reference": "D43",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D44",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B8A0",
+        "component": {
+            "timestamp": "/5011B8A0",
+            "reference": "D44",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D45",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B8A6",
+        "component": {
+            "timestamp": "/5011B8A6",
+            "reference": "D45",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D46",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B8AC",
+        "component": {
+            "timestamp": "/5011B8AC",
+            "reference": "D46",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D51",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B8CB",
+        "component": {
+            "timestamp": "/5011B8CB",
+            "reference": "D51",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D52",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B8D2",
+        "component": {
+            "timestamp": "/5011B8D2",
+            "reference": "D52",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D53",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B8DA",
+        "component": {
+            "timestamp": "/5011B8DA",
+            "reference": "D53",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D54",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B8E0",
+        "component": {
+            "timestamp": "/5011B8E0",
+            "reference": "D54",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D55",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B8E6",
+        "component": {
+            "timestamp": "/5011B8E6",
+            "reference": "D55",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D56",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B8EC",
+        "component": {
+            "timestamp": "/5011B8EC",
+            "reference": "D56",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D11",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "50103655",
+        "component": {
+            "timestamp": "/50103655",
+            "reference": "D11",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "D12",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5011B49B",
+        "component": {
+            "timestamp": "/5011B49B",
+            "reference": "D12",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "SW11",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512E8C90",
+        "component": {
+            "timestamp": "/512E8C90",
+            "reference": "SW11",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "R11",
+        "value": "10K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512E8FC6",
+        "component": {
+            "timestamp": "/512E8FC6",
+            "reference": "R11",
+            "value": "10K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "SW21",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512E90C4",
+        "component": {
+            "timestamp": "/512E90C4",
+            "reference": "SW21",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW12",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512E928F",
+        "component": {
+            "timestamp": "/512E928F",
+            "reference": "SW12",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW13",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512E96BC",
+        "component": {
+            "timestamp": "/512E96BC",
+            "reference": "SW13",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW14",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512E9870",
+        "component": {
+            "timestamp": "/512E9870",
+            "reference": "SW14",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW15",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512E9AE1",
+        "component": {
+            "timestamp": "/512E9AE1",
+            "reference": "SW15",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW16",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512E9D6F",
+        "component": {
+            "timestamp": "/512E9D6F",
+            "reference": "SW16",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW22",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EA010",
+        "component": {
+            "timestamp": "/512EA010",
+            "reference": "SW22",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW23",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EA0FD",
+        "component": {
+            "timestamp": "/512EA0FD",
+            "reference": "SW23",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW17",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EA103",
+        "component": {
+            "timestamp": "/512EA103",
+            "reference": "SW17",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW24",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EA29C",
+        "component": {
+            "timestamp": "/512EA29C",
+            "reference": "SW24",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW25",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EA7E0",
+        "component": {
+            "timestamp": "/512EA7E0",
+            "reference": "SW25",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW27",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EA973",
+        "component": {
+            "timestamp": "/512EA973",
+            "reference": "SW27",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW31",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EADA8",
+        "component": {
+            "timestamp": "/512EADA8",
+            "reference": "SW31",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW32",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EAE62",
+        "component": {
+            "timestamp": "/512EAE62",
+            "reference": "SW32",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW33",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EAE68",
+        "component": {
+            "timestamp": "/512EAE68",
+            "reference": "SW33",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW34",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EAE6E",
+        "component": {
+            "timestamp": "/512EAE6E",
+            "reference": "SW34",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW35",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EAE74",
+        "component": {
+            "timestamp": "/512EAE74",
+            "reference": "SW35",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW37",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EAE7A",
+        "component": {
+            "timestamp": "/512EAE7A",
+            "reference": "SW37",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW412",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EB903",
+        "component": {
+            "timestamp": "/512EB903",
+            "reference": "SW412",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW42",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EB909",
+        "component": {
+            "timestamp": "/512EB909",
+            "reference": "SW42",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW43",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EB90F",
+        "component": {
+            "timestamp": "/512EB90F",
+            "reference": "SW43",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW44",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EB915",
+        "component": {
+            "timestamp": "/512EB915",
+            "reference": "SW44",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW45",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EB91B",
+        "component": {
+            "timestamp": "/512EB91B",
+            "reference": "SW45",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW46",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EB921",
+        "component": {
+            "timestamp": "/512EB921",
+            "reference": "SW46",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW51",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EC393",
+        "component": {
+            "timestamp": "/512EC393",
+            "reference": "SW51",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW52",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EC399",
+        "component": {
+            "timestamp": "/512EC399",
+            "reference": "SW52",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW53",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EC39F",
+        "component": {
+            "timestamp": "/512EC39F",
+            "reference": "SW53",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW54",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EC3A5",
+        "component": {
+            "timestamp": "/512EC3A5",
+            "reference": "SW54",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW55",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EC3AB",
+        "component": {
+            "timestamp": "/512EC3AB",
+            "reference": "SW55",
+            "value": "SPST",
+            "module": "UGL:SS-5GLD"
+        }
+    },
+    {
+        "ref": "SW56",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512EC3B1",
+        "component": {
+            "timestamp": "/512EC3B1",
+            "reference": "SW56",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "R12",
+        "value": "10K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512ECCDF",
+        "component": {
+            "timestamp": "/512ECCDF",
+            "reference": "R12",
+            "value": "10K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R13",
+        "value": "10K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512ECCE5",
+        "component": {
+            "timestamp": "/512ECCE5",
+            "reference": "R13",
+            "value": "10K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R14",
+        "value": "10K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512ECCEB",
+        "component": {
+            "timestamp": "/512ECCEB",
+            "reference": "R14",
+            "value": "10K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R15",
+        "value": "10K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "512ECCF1",
+        "component": {
+            "timestamp": "/512ECCF1",
+            "reference": "R15",
+            "value": "10K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "U1",
+        "value": "ATMEGA88-A",
+        "libsource": {
+            "lib": "atmel",
+            "part": "ATMEGA48-A"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5130EF01",
+        "component": {
+            "timestamp": "/5130EF01",
+            "reference": "U1",
+            "value": "ATMEGA88-A",
+            "module": "UGL:ATMEGA_TQFP32"
+        }
+    },
+    {
+        "ref": "P2",
+        "value": "CONN_5",
+        "libsource": {
+            "lib": "conn",
+            "part": "CONN_5"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5130F32D",
+        "component": {
+            "timestamp": "/5130F32D",
+            "reference": "P2",
+            "value": "CONN_5",
+            "module": "UGL:009155005541006_uhk"
+        }
+    },
+    {
+        "ref": "P3",
+        "value": "CONN_6",
+        "libsource": {
+            "lib": "ugl",
+            "part": "CONN_6"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5130F33C",
+        "component": {
+            "timestamp": "/5130F33C",
+            "reference": "P3",
+            "value": "CONN_6",
+            "module": "UGL:isp6pin"
+        }
+    },
+    {
+        "ref": "X1",
+        "value": "16Mhz",
+        "libsource": {
+            "lib": "ugl",
+            "part": "CRYSTAL"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5131506E",
+        "component": {
+            "timestamp": "/5131506E",
+            "reference": "X1",
+            "value": "16Mhz",
+            "module": "UGL:2-SMD"
+        }
+    },
+    {
+        "ref": "C1",
+        "value": "15pF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "513150A5",
+        "component": {
+            "timestamp": "/513150A5",
+            "reference": "C1",
+            "value": "15pF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C2",
+        "value": "15pF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "513150C6",
+        "component": {
+            "timestamp": "/513150C6",
+            "reference": "C2",
+            "value": "15pF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R1",
+        "value": "47K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51315D6C",
+        "component": {
+            "timestamp": "/51315D6C",
+            "reference": "R1",
+            "value": "47K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R30",
+        "value": "10K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51346274",
+        "component": {
+            "timestamp": "/51346274",
+            "reference": "R30",
+            "value": "10K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C7",
+        "value": "0.1nF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "513486A1",
+        "component": {
+            "timestamp": "/513486A1",
+            "reference": "C7",
+            "value": "0.1nF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R6",
+        "value": "110",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51348BBE",
+        "component": {
+            "timestamp": "/51348BBE",
+            "reference": "R6",
+            "value": "110",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C5",
+        "value": "0.1uF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51348E24",
+        "component": {
+            "timestamp": "/51348E24",
+            "reference": "C5",
+            "value": "0.1uF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "L1",
+        "value": "INDUCTOR",
+        "libsource": {
+            "lib": "ugl",
+            "part": "INDUCTOR"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51348F74",
+        "component": {
+            "timestamp": "/51348F74",
+            "reference": "L1",
+            "value": "INDUCTOR",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C6",
+        "value": "0.1uF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "513490C2",
+        "component": {
+            "timestamp": "/513490C2",
+            "reference": "C6",
+            "value": "0.1uF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C3",
+        "value": "0.1uF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5134D4E5",
+        "component": {
+            "timestamp": "/5134D4E5",
+            "reference": "C3",
+            "value": "0.1uF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C4",
+        "value": "0.1uF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5134D4EB",
+        "component": {
+            "timestamp": "/5134D4EB",
+            "reference": "C4",
+            "value": "0.1uF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C12",
+        "value": "1uF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51366B28",
+        "component": {
+            "timestamp": "/51366B28",
+            "reference": "C12",
+            "value": "1uF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C8",
+        "value": "0.1uF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51366E03",
+        "component": {
+            "timestamp": "/51366E03",
+            "reference": "C8",
+            "value": "0.1uF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "CR2",
+        "value": "ESD",
+        "libsource": {
+            "lib": "opendous",
+            "part": "ESD"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "513E6C50",
+        "component": {
+            "timestamp": "/513E6C50",
+            "reference": "CR2",
+            "value": "ESD",
+            "module": "UGL:SM0603"
+        }
+    },
+    {
+        "ref": "CR3",
+        "value": "ESD",
+        "libsource": {
+            "lib": "opendous",
+            "part": "ESD"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "513E6C62",
+        "component": {
+            "timestamp": "/513E6C62",
+            "reference": "CR3",
+            "value": "ESD",
+            "module": "UGL:SM0603"
+        }
+    },
+    {
+        "ref": "CR4",
+        "value": "ESD",
+        "libsource": {
+            "lib": "opendous",
+            "part": "ESD"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "513E6C68",
+        "component": {
+            "timestamp": "/513E6C68",
+            "reference": "CR4",
+            "value": "ESD",
+            "module": "UGL:SM0603"
+        }
+    },
+    {
+        "ref": "CR5",
+        "value": "ESD",
+        "libsource": {
+            "lib": "opendous",
+            "part": "ESD"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "513E6C6E",
+        "component": {
+            "timestamp": "/513E6C6E",
+            "reference": "CR5",
+            "value": "ESD",
+            "module": "UGL:SM0603"
+        }
+    },
+    {
+        "ref": "U2",
+        "value": "PCA9634",
+        "libsource": {
+            "lib": "ugl",
+            "part": "PCA9634"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51BA4E0E",
+        "component": {
+            "timestamp": "/51BA4E0E",
+            "reference": "U2",
+            "value": "PCA9634",
+            "module": "UGL:PCA9634_TSSOP"
+        }
+    },
+    {
+        "ref": "U3",
+        "value": "TPIC6C595",
+        "libsource": {
+            "lib": "ugl",
+            "part": "TPIC6C595"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51BA6D4E",
+        "component": {
+            "timestamp": "/51BA6D4E",
+            "reference": "U3",
+            "value": "TPIC6C595",
+            "module": "UGL:TPIC6C595_SO16"
+        }
+    },
+    {
+        "ref": "R21",
+        "value": "110",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C3B1C4",
+        "component": {
+            "timestamp": "/51C3B1C4",
+            "reference": "R21",
+            "value": "110",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R22",
+        "value": "150",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C3B1DE",
+        "component": {
+            "timestamp": "/51C3B1DE",
+            "reference": "R22",
+            "value": "150",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R23",
+        "value": "150",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C3B202",
+        "component": {
+            "timestamp": "/51C3B202",
+            "reference": "R23",
+            "value": "150",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R24",
+        "value": "150",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C3B226",
+        "component": {
+            "timestamp": "/51C3B226",
+            "reference": "R24",
+            "value": "150",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R25",
+        "value": "150",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C3BBA1",
+        "component": {
+            "timestamp": "/51C3BBA1",
+            "reference": "R25",
+            "value": "150",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R26",
+        "value": "150",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C3BCD9",
+        "component": {
+            "timestamp": "/51C3BCD9",
+            "reference": "R26",
+            "value": "150",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R27",
+        "value": "150",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C3BCDF",
+        "component": {
+            "timestamp": "/51C3BCDF",
+            "reference": "R27",
+            "value": "150",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R28",
+        "value": "150",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C3BCE5",
+        "component": {
+            "timestamp": "/51C3BCE5",
+            "reference": "R28",
+            "value": "150",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C13",
+        "value": "10uF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C91DD2",
+        "component": {
+            "timestamp": "/51C91DD2",
+            "reference": "C13",
+            "value": "10uF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C11",
+        "value": "0.1uF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C91DDE",
+        "component": {
+            "timestamp": "/51C91DDE",
+            "reference": "C11",
+            "value": "0.1uF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C10",
+        "value": "0.01uF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "C"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C91DE4",
+        "component": {
+            "timestamp": "/51C91DE4",
+            "reference": "C10",
+            "value": "0.01uF",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R3",
+        "value": "4.7K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C9904E",
+        "component": {
+            "timestamp": "/51C9904E",
+            "reference": "R3",
+            "value": "4.7K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R2",
+        "value": "4.7K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51C990B9",
+        "component": {
+            "timestamp": "/51C990B9",
+            "reference": "R2",
+            "value": "4.7K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "C14",
+        "value": "100uF",
+        "libsource": {
+            "lib": "ugl",
+            "part": "CP"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "51D56BFD",
+        "component": {
+            "timestamp": "/51D56BFD",
+            "reference": "C14",
+            "value": "100uF",
+            "module": "UGL:SM1206_Tantalum"
+        }
+    },
+    {
+        "ref": "Q1",
+        "value": "PNP",
+        "libsource": {
+            "lib": "ugl",
+            "part": "PNP"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "52A0BDE3",
+        "component": {
+            "timestamp": "/52A0BDE3",
+            "reference": "Q1",
+            "value": "PNP",
+            "module": "UGL:SOT-23"
+        }
+    },
+    {
+        "ref": "R31",
+        "value": "1K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "52A0BEE6",
+        "component": {
+            "timestamp": "/52A0BEE6",
+            "reference": "R31",
+            "value": "1K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R32",
+        "value": "47K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "52A0C023",
+        "component": {
+            "timestamp": "/52A0C023",
+            "reference": "R32",
+            "value": "47K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "P4",
+        "value": "CONN_18",
+        "libsource": {
+            "lib": "opendous",
+            "part": "CONN_18"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "52A33478",
+        "component": {
+            "timestamp": "/52A33478",
+            "reference": "P4",
+            "value": "CONN_18",
+            "module": "UGL:SFV18R-2STE1HLF"
+        }
+    },
+    {
+        "ref": "CR6",
+        "value": "ESD",
+        "libsource": {
+            "lib": "opendous",
+            "part": "ESD"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "53D49332",
+        "component": {
+            "timestamp": "/53D49332",
+            "reference": "CR6",
+            "value": "ESD",
+            "module": "UGL:SM0603"
+        }
+    },
+    {
+        "ref": "R8",
+        "value": "10K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "53C8F67D",
+        "component": {
+            "timestamp": "/53C8F67D",
+            "reference": "R8",
+            "value": "10K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R7",
+        "value": "10K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "53C91BB5",
+        "component": {
+            "timestamp": "/53C91BB5",
+            "reference": "R7",
+            "value": "10K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R4",
+        "value": "47",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "53CF0531",
+        "component": {
+            "timestamp": "/53CF0531",
+            "reference": "R4",
+            "value": "47",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R5",
+        "value": "47",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "53CF6DE8",
+        "component": {
+            "timestamp": "/53CF6DE8",
+            "reference": "R5",
+            "value": "47",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "CR1",
+        "value": "ESD",
+        "libsource": {
+            "lib": "opendous",
+            "part": "ESD"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "53DCA671",
+        "component": {
+            "timestamp": "/53DCA671",
+            "reference": "CR1",
+            "value": "ESD",
+            "module": "UGL:SM0603"
+        }
+    },
+    {
+        "ref": "R33",
+        "value": "1K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "55283349",
+        "component": {
+            "timestamp": "/55283349",
+            "reference": "R33",
+            "value": "1K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "Q2",
+        "value": "PNP",
+        "libsource": {
+            "lib": "ugl",
+            "part": "PNP"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "55286E94",
+        "component": {
+            "timestamp": "/55286E94",
+            "reference": "Q2",
+            "value": "PNP",
+            "module": "UGL:SOT-23"
+        }
+    },
+    {
+        "ref": "R34",
+        "value": "47K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "5528CE5A",
+        "component": {
+            "timestamp": "/5528CE5A",
+            "reference": "R34",
+            "value": "47K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R9",
+        "value": "100K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "552AE560",
+        "component": {
+            "timestamp": "/552AE560",
+            "reference": "R9",
+            "value": "100K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "R10",
+        "value": "10K",
+        "libsource": {
+            "lib": "ugl",
+            "part": "R"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "552AF5B4",
+        "component": {
+            "timestamp": "/552AF5B4",
+            "reference": "R10",
+            "value": "10K",
+            "module": "UGL:SM0805"
+        }
+    },
+    {
+        "ref": "SW411",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "552D126D",
+        "component": {
+            "timestamp": "/552D126D",
+            "reference": "SW411",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "SW47",
+        "value": "SPST",
+        "libsource": {
+            "lib": "ugl",
+            "part": "SPST"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "552D64DE",
+        "component": {
+            "timestamp": "/552D64DE",
+            "reference": "SW47",
+            "value": "SPST",
+            "module": "UGL:Cherry_MX"
+        }
+    },
+    {
+        "ref": "D47",
+        "value": "DIODE",
+        "libsource": {
+            "lib": "ugl",
+            "part": "DIODE"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "552D6592",
+        "component": {
+            "timestamp": "/552D6592",
+            "reference": "D47",
+            "value": "DIODE",
+            "module": "UGL:SOD-123_Diode"
+        }
+    },
+    {
+        "ref": "CR7",
+        "value": "ESD",
+        "libsource": {
+            "lib": "opendous",
+            "part": "ESD"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "55266CD7",
+        "component": {
+            "timestamp": "/55266CD7",
+            "reference": "CR7",
+            "value": "ESD",
+            "module": "UGL:SM0603"
+        }
+    },
+    {
+        "ref": "P1",
+        "value": "CONN_4",
+        "libsource": {
+            "lib": "ugl",
+            "part": "CONN_4"
+        },
+        "sheetpath": {
+            "names": "/",
+            "tstamps": "/"
+        },
+        "tstamp": "55280193",
+        "component": {
+            "timestamp": "/5130F31E",
+            "reference": "P1",
+            "value": "CONN_5",
+            "module": "UGL:0955012641"
+        }
+    }
+]

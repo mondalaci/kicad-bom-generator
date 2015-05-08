@@ -1,0 +1,32 @@
+{
+  "name": "kicad-bom-generator",
+  "version": "0.0.1",
+  "description": "KiCad netlist (.net) and components (.cmp) to JSON BOM generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mondalaci/kicad-bom-generator.git"
+  },
+  "keywords": [
+    "kicad",
+    "netlist",
+    "components",
+    "net",
+    "cmp",
+    "bom",
+    "generator"
+  ],
+  "author": "Laszlo Monda",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/mondalaci/kicad-bom-generator/issues"
+  },
+  "homepage": "https://github.com/mondalaci/kicad-bom-generator",
+  "dependencies": {
+    "kicad-components-to-json": "0.0.3",
+    "kicad-netlist-to-json": "0.0.9"
+  }
+}
